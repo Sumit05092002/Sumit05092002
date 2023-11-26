@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit05092002
+- 👋 Hi, I’m Sumit Mishra
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development in Express and MongoDB
 - 💞️ I’m looking to collaborate on MERN Projects

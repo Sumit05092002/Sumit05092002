@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Mishra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development in Express and MongoDB
-- 💞️ I’m looking to collaborate on MERN Projects
+- 🌱 I’m currently learning Backend Development in Express , MongoDB and NodeJs
+- - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 You can contact me on mishra.05.sumit@gmail.com
 
 <!---
